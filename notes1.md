@@ -73,6 +73,4 @@ This will export the top 50 most played songs to a `top_50_songs.json` file.
 - A `.txt`, `.json`, or `.csv` file containing your most-played songs.
 - (Optional) A bar chart showing the top 10 most played songs saved as a `.png` file.
 
-
-
 ### working - python 1/top_youtube_music_songs.py --file_path "watch-history" --amount 100 --export_format txt
